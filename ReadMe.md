@@ -44,7 +44,7 @@ This project presents a comprehensive **HR Dashboard** built using Power BI, pro
    git clone https://github.com/yourusername/HR-Dashboard.git
    ```
 
-   Alternatively, you can download the [ZIP file](https://github.com/yourusername/HR-Dashboard.git) and extract it to a folder on your computer.
+   Alternatively, you can download the [ZIP file](https://github.com/adityaK1950/HR-Analytics-Dashboard.git) and extract it to a folder on your computer.
 
 2. Navigate to the project directory:
    ```bash
