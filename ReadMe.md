@@ -14,7 +14,7 @@ This project presents a comprehensive **HR Dashboard** built using Power BI, pro
 ![Years Since Promotion vs. Attrition Screenshot](https://github.com/user-attachments/assets/8b9b3a43-b1a1-431a-95a2-f3535ab69d3b)
 
 ### Attrition by Overtime
-![Attrition by Overtime Screenshot](https://github.com/user-attachments/assets/example-attrition-overtime)
+![Attrition by Overtime Screenshot](https://github.com/user-attachments/assets/a65c6d99-c44f-41ab-9d77-3902c374cf16)
 
 ## Technologies Used 🌐
 
