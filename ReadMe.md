@@ -7,6 +7,10 @@ This project presents a comprehensive **HR Dashboard** built using Power BI, pro
 
 ## Screenshots 🖼️
 
+### HR Report Analysis 📈
+![HR Report Analysis Screenshot](https://github.com/user-attachments/assets/1c35585f-28a4-4185-aac5-70d9cbbc20e2)
+
+
 ### Attrition by Department
 ![Attrition by Department Screenshot](https://github.com/user-attachments/assets/46f297e8-08c0-41a2-8765-999cf4a18c34)
 
