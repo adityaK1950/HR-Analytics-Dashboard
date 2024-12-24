@@ -1,0 +1,81 @@
+
+# HR Report Analysis Dashboard 📊
+
+## Introduction ℹ️
+
+This project presents a comprehensive **HR Dashboard** built using Power BI, providing actionable insights into workforce dynamics. It focuses on key metrics such as attrition, promotion trends, job satisfaction, and years of service to empower data-driven decision-making for HR professionals.
+
+## Screenshots 🖼️
+
+### Attrition by Department
+![Attrition by Department Screenshot](https://github.com/user-attachments/assets/example-attrition-department)
+
+### Years Since Promotion vs. Attrition
+![Years Since Promotion vs. Attrition Screenshot](https://github.com/user-attachments/assets/example-years-since-promotion)
+
+### Attrition by Overtime
+![Attrition by Overtime Screenshot](https://github.com/user-attachments/assets/example-attrition-overtime)
+
+## Technologies Used 🌐
+
+- Power BI
+- Excel (for data preparation)
+- Power Query (for data transformation)
+
+## Features 🌟
+
+- **Key Metrics**:
+   - Attrition Rate: 16%
+   - Average Monthly Income: $6.5K
+   - Female Ratio: 40%
+   - Promotion Rate: 2.53%
+   - Average Years of Service: 7.01
+
+- **Visualizations**:
+   - Attrition by Department
+   - Years Since Promotion vs. Attrition
+   - Attrition by Overtime
+
+## Installation ⚙️
+
+1. Clone the repository to your local machine using Git:
+
+   ```bash
+   git clone https://github.com/yourusername/HR-Dashboard.git
+   ```
+
+   Alternatively, you can download the [ZIP file](https://github.com/yourusername/HR-Dashboard.git) and extract it to a folder on your computer.
+
+2. Navigate to the project directory:
+   ```bash
+   cd HR-Dashboard
+   ```
+
+3. Open the `.pbix` file in Power BI Desktop.
+
+## Instructions 🌟
+
+To explore the HR Dashboard, simply open the `.pbix` file in Power BI Desktop. Interact with the visualizations to analyze attrition trends, promotion insights, and employee satisfaction metrics.
+
+## Customization 🔧
+
+You can customize the dashboard by modifying the following aspects:
+
+1. **Visualizations**: Adjust the visualizations to better suit your analysis needs. Add, remove, or modify charts, tables, and other elements.
+
+2. **Data Source**: Update the data source to reflect your organization's HR data. Modify the data connections and queries in Power BI accordingly.
+
+3. **Styling**: Customize the appearance of the dashboard by changing colors, fonts, and themes using Power BI's formatting options.
+
+## Contributing 🤝
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+## Contact Us 📧
+
+For any questions or suggestions, please feel free to contact us at [email](mailto:adityakakadeoffice@gmail.com).  
+OR  
+Reach out to us using the [Contact Form](https://forms.gle/cEcJ9uEiz1XVbsuw8).
+
+## Inspirational Quote for HR Professionals 🧑‍💼
+> #### "The greatest asset of a company is its people, and behind every employee is a story waiting to be understood." 🌟
