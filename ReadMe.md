@@ -8,7 +8,7 @@ This project presents a comprehensive **HR Dashboard** built using Power BI, pro
 ## Screenshots 🖼️
 
 ### Attrition by Department
-![Attrition by Department Screenshot](https://github.com/user-attachments/assets/example-attrition-department)
+![Attrition by Department Screenshot](https://github.com/user-attachments/assets/46f297e8-08c0-41a2-8765-999cf4a18c34)
 
 ### Years Since Promotion vs. Attrition
 ![Years Since Promotion vs. Attrition Screenshot](https://github.com/user-attachments/assets/example-years-since-promotion)
