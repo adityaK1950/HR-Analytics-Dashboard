@@ -41,7 +41,7 @@ This project presents a comprehensive **HR Dashboard** built using Power BI, pro
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/HR-Dashboard.git
+   git clone https://github.com/adityaK1950/HR-Analytics-Dashboard.git
    ```
 
    Alternatively, you can download the [ZIP file](https://github.com/adityaK1950/HR-Analytics-Dashboard.git) and extract it to a folder on your computer.
